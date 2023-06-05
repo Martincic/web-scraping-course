@@ -8,7 +8,7 @@
    - HTML (Hypertext Markup Language)
    - Writing to CSV
    
-[Introduction to web scraping Notebook](Introduction.ipynb)
+[Introduction to web scraping Notebook](exercises/Scraping.ipynb)
 
 
 2. Introduction SQL Databases
@@ -17,4 +17,4 @@
    - Inserting data
    - Retrieving data
    
-[Databases Notebook](Database.ipynb)
+[Databases Notebook](exercises/Database.ipynb)
